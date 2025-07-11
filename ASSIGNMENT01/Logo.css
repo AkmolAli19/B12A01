@@ -1,0 +1,7 @@
+body{
+    background-image: url('Hero-bg.png'); /*Back-ground image inserted on the first page*/
+}
+.colored-text{
+    color: #4E47FF;
+    font-family: Arial, Helvetica, sans-serif;
+}
