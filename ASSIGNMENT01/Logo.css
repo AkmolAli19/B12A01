@@ -1,0 +1,50 @@
+
+.inter-Inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/*Nav icon*/
+nav{
+    display: flex;
+}
+
+/*Website logo */
+.logo{
+   color: rgb(78, 71, 255);
+}
+
+
+/*Nav button not styling */
+nav ul li{
+    list-style: none;
+    
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10.5px 25.5px;
+}
+
+
+.Buton{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+/*Button design common so felt into class*/
+
+.btn-primary{
+    background-color: rgb(78, 71, 255);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 12px 28px;
+    border: 0px solid white;
+    border-radius: 10px;
+}
