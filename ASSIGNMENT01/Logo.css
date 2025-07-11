@@ -48,3 +48,18 @@ nav {
     border: 0px solid white;
     border-radius: 10px;
 }
+
+.description{
+   font-size: larger;
+   text-align: center;
+}
+
+.mid{
+    text-align: center;
+    padding: 200px 250px;
+}
+
+.button2{
+    padding: 20px 260px;
+}
+
