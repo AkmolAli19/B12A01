@@ -8,7 +8,7 @@
 }
 
 
-/*font class used*/
+/*raleway font class used*/
 
 
 .raleway-ralewayfontuse {
@@ -19,65 +19,13 @@
 }
 
 
+/*----------------------------------------------------------------------*/
 
-
-.interbeguni{
-    color: 
-    #4E47FF;
-}
-
-.buttondesign{
-   background-color:#4E47FF;
-   font-size: 16px;
-   font-weight: bold;
-   padding: 10px 26px;
-   border: none;
-   border-radius: 12px;
-   
-}
-
-
-
-nav ul li{
-    list-style: none;
-}
 
 nav{
     display: flex;
-    justify-content: space-between; 
-    margin: 30px 30px;                                     /*Logo and sign up button aligned in the same line*/
-}
-                   
-
-.firstpage{
-      justify-content: center;
 }
 
-
-
-
-.banner{
-    justify-content: center;
-    display: flex;
-}
-
-
-.WA{
-    display: inline-block; 
-    text-align: center;
-    width: 100%; 
-    margin-left: -0.3em; 
-}
-
-.secondButton{
-    display: block;            /*Centered the 2nd button which is "Stay Focused" button here*/ 
-  margin: 0 auto;      
-  margin-top: 20px;    
-}
-
-
-
-
-.header{
-    background-image: '../ASSETS/Hero-bg.png';
+nav ul li{
+    list-style: none;
 }
