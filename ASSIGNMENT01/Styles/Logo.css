@@ -24,8 +24,126 @@
 
 nav{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 nav ul li{
+    list-style: none;
+}
+
+.buttondesign{
+    background-color: #4E47FF;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+.content1{
+    text-align: center;
+    padding: 58px;
+}
+
+
+.header{
+     background-image: url('../ASSETS/Hero-bg.png')
+    
+}
+
+
+.content2{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.content2-contents{
+    text-align: left;
+    padding: 92px;
+    font-size: smaller;
+}
+
+
+img{
+
+   
+   width: 403px;
+   height: 328px;
+   padding: 42px;
+   border-radius: 82px
+}
+
+
+
+.content3{
+    background-color: #e7ebfc;
+    align-items: center;
+    
+}
+
+
+con1{
+    margin: 12px;
+}
+
+
+.container div{
+    border: 2px solid rgb(219,222,236,0.959);
+    height: 140px;
+    width: 120px;
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    background-color:rgba(219, 222, 236, 0.959);
+    margin: 10px
+    min-height: 100vh; 
+    justify-content: center;
+    
+   
+}
+
+.flextext{
+
+  justify-content: center; 
+  align-items: center; 
+  gap: 10px; 
+  padding: 52px;
+}
+
+
+
+.flexparagraph{
+    font-size: smaller;
+}
+
+.flexhead{
+    font: bold;
+    font-size: 50px;
+    color: #4E47FF;
+}
+
+
+.content3{
+    
+    background-color: white;
+}
+
+.content3paragraph{
+    font: normal;
+    font-size: 15px;
+    color: #d4d4eb;
+
+}
+
+.content3h3{
+    font-size: 35px;
+}
+
+
+footer{
     list-style: none;
 }
